@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 👨‍💻 All of my projects are available at [https://sharonpala.pythonanywhere.com/](https://sharonpala.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-sharonpala.vercel.app/](https://portfolio-sharonpala.vercel.app/)
 
 - 📫 How to reach me **sharon.pala2002@gmail.com**
 
